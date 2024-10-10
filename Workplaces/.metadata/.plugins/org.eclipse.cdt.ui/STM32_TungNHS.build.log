@@ -1,9 +1,9 @@
-23:00:52 **** Clean-only build of configuration Debug for project STM32_TungNHS ****
+23:26:27 **** Clean-only build of configuration Debug for project STM32_TungNHS ****
 make -j20 clean 
 rm -rf ./Startup/startup_stm32f407vgtx.d ./Startup/startup_stm32f407vgtx.o
 rm -rf ./Src/main.cyclo ./Src/main.d ./Src/main.o ./Src/main.su ./Src/syscalls.cyclo ./Src/syscalls.d ./Src/syscalls.o ./Src/syscalls.su ./Src/sysmem.cyclo ./Src/sysmem.d ./Src/sysmem.o ./Src/sysmem.su
 rm -rf STM32_TungNHS.elf STM32_TungNHS.list STM32_TungNHS.map default.size.stdout
  
 
-23:00:52 Build Finished. 0 errors, 0 warnings. (took 491ms)
+23:26:28 Build Finished. 0 errors, 0 warnings. (took 159ms)
 

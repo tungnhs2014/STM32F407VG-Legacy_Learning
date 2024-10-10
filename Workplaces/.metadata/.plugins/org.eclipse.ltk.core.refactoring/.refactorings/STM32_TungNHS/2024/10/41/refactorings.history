@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;STM32_TungNHS/drivers&apos; to &apos;Drivers&apos;" description="Rename resource &apos;drivers&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="drivers" name="Drivers" stamp="1728564719002" updateReferences="true"/>&#x0A;<refactoring comment="Rename resource &apos;STM32_TungNHS/Drivers/inc&apos; to &apos;Inc&apos;" description="Rename resource &apos;inc&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="Drivers/inc" name="Inc" stamp="1728564724396" updateReferences="true"/>
+</session>

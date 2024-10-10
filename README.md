@@ -1,1 +1,2 @@
-# STM32F407VG-Legacy_Learning
+# STM32F407xx Legacy for Learning
+- Learning to write driver for GPIO, SPI, I2C, UART,...

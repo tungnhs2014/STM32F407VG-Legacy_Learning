@@ -1,9 +1,10 @@
-23:29:15 **** Clean-only build of configuration Debug for project STM32_TungNHS ****
+10:35:23 **** Clean-only build of configuration Debug for project STM32_TungNHS ****
 make -j20 clean 
 rm -rf ./Startup/startup_stm32f407vgtx.d ./Startup/startup_stm32f407vgtx.o
-rm -rf ./Src/main.cyclo ./Src/main.d ./Src/main.o ./Src/main.su ./Src/syscalls.cyclo ./Src/syscalls.d ./Src/syscalls.o ./Src/syscalls.su ./Src/sysmem.cyclo ./Src/sysmem.d ./Src/sysmem.o ./Src/sysmem.su
+rm -rf ./Src/01_led_toggle.cyclo ./Src/01_led_toggle.d ./Src/01_led_toggle.o ./Src/01_led_toggle.su ./Src/syscalls.cyclo ./Src/syscalls.d ./Src/syscalls.o ./Src/syscalls.su ./Src/sysmem.cyclo ./Src/sysmem.d ./Src/sysmem.o ./Src/sysmem.su
+rm -rf ./Drivers/Src/stm32f407xx_gpio_driver.cyclo ./Drivers/Src/stm32f407xx_gpio_driver.d ./Drivers/Src/stm32f407xx_gpio_driver.o ./Drivers/Src/stm32f407xx_gpio_driver.su
 rm -rf STM32_TungNHS.elf STM32_TungNHS.list STM32_TungNHS.map default.size.stdout
  
 
-23:29:15 Build Finished. 0 errors, 0 warnings. (took 98ms)
+10:35:24 Build Finished. 0 errors, 0 warnings. (took 183ms)
 
